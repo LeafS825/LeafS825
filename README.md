@@ -21,7 +21,7 @@
 ![](https://raw.githubusercontent.com/LeafS825/stats/main/generated/overview.svg)
 ![](https://raw.githubusercontent.com/LeafS825/stats/main/generated/languages.svg)
 
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=LeafS825)
+![LeafS825's Github stats](https://github-readme-stats.vercel.app/api?username=LeafS825)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LeafS825)
 <!--
