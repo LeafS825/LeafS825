@@ -17,7 +17,7 @@
 - ![](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
-[LeafS825's GitHub stats](https://github-stats-extended.vercel.app/api?username=LeafS825)
+![LeafS825's GitHub stats](https://github-stats-extended.vercel.app/api?username=LeafS825)
 ![](https://raw.githubusercontent.com/LeafS825/stats/main/generated/overview.svg)
 ![](https://raw.githubusercontent.com/LeafS825/stats/main/generated/languages.svg)
 
