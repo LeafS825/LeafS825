@@ -21,7 +21,7 @@
 ![](https://raw.githubusercontent.com/LeafS825/stats/main/generated/overview.svg)
 ![](https://raw.githubusercontent.com/LeafS825/stats/main/generated/languages.svg)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LeafS825)
-[![GitHub Roast score card](https://ghfind.com/api/card/mini/leafs825)](https://ghfind.com/u/leafs825?ref=badge)
+[![GitHub Roast score card](https://ghfind.com/api/card/mini/leafs825?lang=zh)](https://ghfind.com/u/leafs825?ref=badge)
 <!--
 **LeafS825/LeafS825** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
